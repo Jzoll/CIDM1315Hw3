@@ -1,0 +1,104 @@
+body {
+  background-color: rgb(46, 27, 19);
+  background-size: 100%;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+  max-width: 800px;
+  margin: auto;
+}
+
+h1 {
+  color: beige;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  color: beige;
+}
+
+ul {
+  height: 40px;
+  width: 100%;
+  font-size: 20px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(29, 32, 57, 0.866);
+  position: fixed;
+  bottom: 0;
+}
+
+a {
+  color: rgb(184, 139, 71);
+}
+
+a:hover {
+  color: pink;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(255, 255, 255, 0.873);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+form {
+  color: blanchedalmond;
+}
+
+.active {
+  background-color: #0a5439;
+}
+
+.simplec {
+  margin-left: auto;
+  margin-right: auto; 
+}
+
+.center {
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.submission {
+  text-align: center;
+  color: blanchedalmond;
+  margin-bottom: 0px;
+}
+
+.credit {
+  text-align: center;
+}
+
+.ptop{
+  padding-top:20px;
+}
+
+#belief a:hover {
+  background-color: rgb(90, 163, 195);
+}
+
+#edu a:hover {
+  background-color: rgb(160, 152, 60);
+}
+
+#qual a:hover {
+  background-color: rgb(133, 46, 46);
+}
